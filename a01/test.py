@@ -7,3 +7,4 @@ for i in range (10):
 a=grid
 line = rg.Line(grid[0],grid[15])
 b = line.Length
+c= line
