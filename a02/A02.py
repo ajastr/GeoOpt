@@ -68,8 +68,8 @@ newPts = []
 for n in range(len(exploded)):
 
 
-    centerOff =(c[n]-0.3)/ 3.14
-    centerOff = centerOff ** 3
+    centerOff =(c[n])*1.5/ 3.14
+    #centerOff = centerOff ** 3
     newMesh = exploded[n]
     newVert = []
 
